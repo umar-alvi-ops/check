@@ -1,0 +1,90 @@
+body{
+    font-family: sans-serif;
+    background-color: whitesmoke;
+
+}
+.nav-item a {
+    font-size: 18px;
+    color: white;
+}
+.nav-item a:hover{
+    color: brown;
+    transition: 0.5s;
+
+}
+.navbar-toggler{
+    color: white;
+}
+.navbar-toggler-icon{
+    color: white;
+}
+span{
+    animation: mymove 5s infinite;
+}
+@keyframes mymove {
+    0% {color: red;}
+    10% {color:green;}
+    20% {color:rgb(208, 214, 208);}
+    30% {color:yellow;}
+    100% {color:blue;}
+
+}
+a:hover{
+    color: brown;
+    transition: 3.5s;
+}
+.head{
+    font-size: 55px;
+    font-weight: 600;
+    line-height: 1.5;
+
+}
+.navb{
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+a{
+    font-style: none;
+    list-style: none;
+}
+.navbar-brand{
+    color: white;
+}
+.text{
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 1.5;
+
+}
+.heading{
+    font-size: 30px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

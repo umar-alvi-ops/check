@@ -23,10 +23,10 @@ span{
 }
 @keyframes mymove {
     0% {color: red;}
-    10% {color:green;}
-    20% {color:rgb(208, 214, 208);}
-    30% {color:yellow;}
-    100% {color:blue;}
+    10% {color:white;}
+    20% {color:red;}
+    30% {color:white;}
+    100% {color:red;}
 
 }
 a:hover{
